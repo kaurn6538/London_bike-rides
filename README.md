@@ -39,12 +39,9 @@ The Tableau dashboard consists of five key visualizations:
 2.Comparison: Users can compare the total number of bike rides with the moving average, as well as analyze the impact of temperature and wind speed on bike-sharing activities.
 
 ## File Structure
-data/
-london_bike_final.xlsx: The processed and cleaned dataset used for visualization.
-notebooks/
-data_processing.ipynb: Jupyter Notebook containing the data processing and manipulation code.
-dashboard/
-London_Bike_Sharing.twb: Tableau workbook file containing the dashboard and visualizations.
+*    london_bike_final.xlsx: The processed and cleaned dataset used for visualization.
+*    data_processing.ipynb: Jupyter Notebook containing the data processing and manipulation code.
+*    London_Bike_Sharing.twb: Tableau workbook file containing the dashboard and visualizations.
 
 ## How to Run
 1.Clone the Repository:
