@@ -41,7 +41,7 @@ The Tableau dashboard consists of five key visualizations:
 ## File Structure
 *    london_bike_final.xlsx: The processed and cleaned dataset used for visualization.
 *    london_bike.ipynb: Jupyter Notebook containing the data processing and manipulation code.
-*    London_bike_Sharing.twb: Tableau workbook file containing the dashboard and visualizations.
+*    London_bike_sharing.twb: Tableau workbook file containing the dashboard and visualizations.
 
 ## How to Run
 1.Clone the Repository:
