@@ -52,15 +52,16 @@ The Tableau dashboard consists of five key visualizations:
 
 *      pip install pandas
 
-3.    Run the Jupyter Notebook: Open the data_processing.ipynb notebook and execute the cells to process the data.
+3.Run the Jupyter Notebook: Open the data_processing.ipynb notebook and execute the cells to process the data.
   
-4    Open Tableau: Use Tableau to open the London_Bike_Sharing.twb file and interact with the dashboard.
+4.Open Tableau: Use Tableau to open the London_Bike_Sharing.twb file and interact with the dashboard.
   
 ## Conclusion
 This project demonstrates the process of data exploration, cleaning, and visualization using Python and Tableau. The interactive dashboard provides insights into bike-sharing patterns in London, influenced by various factors such as temperature and wind speed.
 
 ## Acknowledgements
 Kaggle for providing the dataset.
+
 The developers of pandas and Tableau for their powerful data analysis and visualization tools.
 
 
