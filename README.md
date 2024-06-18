@@ -47,16 +47,17 @@ dashboard/
 London_Bike_Sharing.twb: Tableau workbook file containing the dashboard and visualizations.
 
 ## How to Run
-Clone the Repository:
+1.Clone the Repository:
 
-git clone https://github.com/yourusername/london-bike-sharing-dashboard.git
+*     git clone https://github.com/yourusername/london-bike-sharing-dashboard.git
 
-Install Dependencies: Ensure you have Python and Jupyter Notebook installed. You can install the required Python libraries using:
+2.Install Dependencies: Ensure you have Python and Jupyter Notebook installed. You can install the required Python libraries using:
 
-pip install pandas
+*      pip install pandas
 
-*    Run the Jupyter Notebook: Open the data_processing.ipynb notebook and execute the cells to process the data.
-*    Open Tableau: Use Tableau to open the London_Bike_Sharing.twb file and interact with the dashboard.
+3.    Run the Jupyter Notebook: Open the data_processing.ipynb notebook and execute the cells to process the data.
+  
+4    Open Tableau: Use Tableau to open the London_Bike_Sharing.twb file and interact with the dashboard.
   
 ## Conclusion
 This project demonstrates the process of data exploration, cleaning, and visualization using Python and Tableau. The interactive dashboard provides insights into bike-sharing patterns in London, influenced by various factors such as temperature and wind speed.
