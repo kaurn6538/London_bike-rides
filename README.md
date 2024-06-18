@@ -46,13 +46,13 @@ The Tableau dashboard consists of five key visualizations:
 ## How to Run
 1.Clone the Repository:
 
-*     git clone https://github.com/kaurn6538/london_bike-rdes.git
+*     git clone https://github.com/kaurn6538/london_bike_rdes.git
 
 2.Install Dependencies: Ensure you have Python and Jupyter Notebook installed. You can install the required Python libraries using:
 
 *      pip install pandas
 
-3.Run the Jupyter Notebook: Open the data_processing.ipynb notebook and execute the cells to process the data.
+3.Run the Jupyter Notebook: Open the london_bike.ipynb notebook and execute the cells to process the data.
   
 4.Open Tableau: Use Tableau to open the London_Bike_Sharing.twb file and interact with the dashboard.
   
