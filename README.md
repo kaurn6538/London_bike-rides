@@ -40,7 +40,7 @@ The Tableau dashboard consists of five key visualizations:
 
 ## File Structure
 *    london_bike_final.xlsx: The processed and cleaned dataset used for visualization.
-*    data_processing.ipynb: Jupyter Notebook containing the data processing and manipulation code.
+*    london_bike.ipynb: Jupyter Notebook containing the data processing and manipulation code.
 *    London_Bike_Sharing.twb: Tableau workbook file containing the dashboard and visualizations.
 
 ## How to Run
@@ -54,7 +54,7 @@ The Tableau dashboard consists of five key visualizations:
 
 3.Run the Jupyter Notebook: Open the london_bike.ipynb notebook and execute the cells to process the data.
   
-4.Open Tableau: Use Tableau to open the London_Bike_Sharing.twb file and interact with the dashboard.
+4.Open Tableau: Use Tableau to open the London_bike_sharing.twb file and interact with the dashboard.
   
 ## Conclusion
 This project demonstrates the process of data exploration, cleaning, and visualization using Python and Tableau. The interactive dashboard provides insights into bike-sharing patterns in London, influenced by various factors such as temperature and wind speed.
